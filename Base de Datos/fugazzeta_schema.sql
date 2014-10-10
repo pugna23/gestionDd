@@ -3,6 +3,7 @@ GO
 CREATE SCHEMA FUGAZZETA AUTHORIZATION gd
 GO
 
+--Probando commit--
 ---------------------------/*Creacion de Tablas*/-------------------------------------------
 --------------------------------------------------------------------------------------------
 CREATE TABLE FUGAZZETA.Hoteles(
